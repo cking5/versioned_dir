@@ -1,6 +1,6 @@
 # Hello Brilliant, Useful GitHub
 
-This is a README.md file that will be used to describe this
+This is a great README.md file that will be used to describe this
 repository on GitHub
 
 This is an extra line of text added to the copy
